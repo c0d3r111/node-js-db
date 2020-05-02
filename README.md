@@ -33,6 +33,6 @@ const Database   = require('./database');
   
   void console.log(user);
   void process.exit();
-}();
+})();
 
 ```
