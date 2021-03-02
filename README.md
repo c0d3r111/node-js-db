@@ -1,5 +1,5 @@
 # node-js-db
-Node js based general purpose database
+Node js based general purpose database [ARCHIVE]
 
 
 # Usage
